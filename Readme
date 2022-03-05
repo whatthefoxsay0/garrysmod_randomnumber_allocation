@@ -1,5 +1,9 @@
+just unpack the zip file into the addon folder of the server and start the server and join.
+
 This Garrysmod server addon will allocate a number from 5000 to 50000 to new players.
 This number will stay the same no matter what they do (except for changing server files).
 you can choose different percantages for different numbers and it is 100 stepped (5000 5100 5200 ...)
+
+to check peoples strength just type: /strength STEAM_0:1:123456789 or /strength username
 
 Made it for a Garrysmod Starwars rp Server for my brother.
